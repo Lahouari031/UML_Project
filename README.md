@@ -1,4 +1,4 @@
-# Coach & Track — UML Project
+# Coach & Track : UML Project
 
 Gym coaching and booking app: coaches build training programs, members book group classes with a weekly quota included in their subscription, log their workouts, and the app adjusts their weights automatically.
 
